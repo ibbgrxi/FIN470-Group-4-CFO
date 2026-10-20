@@ -1,0 +1,255 @@
+{
+  "notes": [],
+  "deletedNotes": [],
+  "synthesis": {},
+  "differences": {},
+  "summaries": {},
+  "conflicts": {},
+  "conditions": [
+    {
+      "title": "Validate collections & credit",
+      "text": "Management shall submit receivables aging, post-year-end collections and distributor credit/return terms before any material expansion drawdown.",
+      "owner": "CFO / Sales Director",
+      "deadline": "Before first material tranche",
+      "reason": "Receivables grew 72.2% in 2026 versus 20% revenue growth."
+    },
+    {
+      "title": "Verify inventory & warranty",
+      "text": "Management shall verify inventory aging, stock valuation and warranty provisioning assumptions, with Audit & Risk Committee review before the next stage.",
+      "owner": "CFO / Operations / Audit & Risk",
+      "deadline": "Before second tranche",
+      "reason": "Inventory reached VND 3,400bn; warranty expense/revenue fell from 1.6% to 0.9%."
+    },
+    {
+      "title": "Protect liquidity & funding",
+      "text": "Each tranche requires a Board-reviewed 13-week cash forecast, documented financing mix, and quarterly transparency reporting.",
+      "owner": "CFO / Treasury",
+      "deadline": "Before each tranche; quarterly review",
+      "reason": "CFO fell to VND 250bn; case lacks 2027 capital requirement and DPO."
+    }
+  ],
+  "kpis": [
+    {
+      "name": "CFO / Net income",
+      "baseline": "21.7%",
+      "target": "≥ 60%",
+      "unit": "%",
+      "value": 21.7,
+      "direction": "high"
+    },
+    {
+      "name": "DSO · year-end proxy",
+      "baseline": "75.4 days",
+      "target": "≤ 65 days",
+      "unit": "days",
+      "value": 75.4,
+      "direction": "low"
+    },
+    {
+      "name": "DOH · year-end proxy",
+      "baseline": "118.2 days",
+      "target": "≤ 105 days",
+      "unit": "days",
+      "value": 118.2,
+      "direction": "low"
+    }
+  ],
+  "resolution": {
+    "decision": "Approve with Conditions",
+    "rationale": "",
+    "review": "Quarterly Board review; defer later tranches if liquidity or verification gates fail.",
+    "dissent": "",
+    "statement": "Cash discipline protects sustainable growth.",
+    "status": "DRAFT",
+    "votes": [],
+    "version": 0
+  },
+  "versions": [],
+  "checklist": {},
+  "worksheet": {},
+  "speakers": {},
+  "questions": [],
+  "scores": {},
+  "scriptCustom": {
+    "hai-4A-0": "Test custom script"
+  },
+  "roleAssignments": {},
+  "scenario": {
+    "dso": 65,
+    "doh": 105,
+    "mode": "A"
+  },
+  "cccInputs": {
+    "ar": "",
+    "inv": "",
+    "ap": "",
+    "source": ""
+  },
+  "sensitivity": {
+    "gain": 320,
+    "warranty": 1.6,
+    "tax": ""
+  },
+  "scanText": "",
+  "kpiActuals": {},
+  "forecast": [
+    {
+      "opening": "",
+      "inflows": "",
+      "outflows": "",
+      "facility": "",
+      "essential": ""
+    },
+    {
+      "opening": "",
+      "inflows": "",
+      "outflows": "",
+      "facility": "",
+      "essential": ""
+    },
+    {
+      "opening": "",
+      "inflows": "",
+      "outflows": "",
+      "facility": "",
+      "essential": ""
+    },
+    {
+      "opening": "",
+      "inflows": "",
+      "outflows": "",
+      "facility": "",
+      "essential": ""
+    },
+    {
+      "opening": "",
+      "inflows": "",
+      "outflows": "",
+      "facility": "",
+      "essential": ""
+    },
+    {
+      "opening": "",
+      "inflows": "",
+      "outflows": "",
+      "facility": "",
+      "essential": ""
+    },
+    {
+      "opening": "",
+      "inflows": "",
+      "outflows": "",
+      "facility": "",
+      "essential": ""
+    },
+    {
+      "opening": "",
+      "inflows": "",
+      "outflows": "",
+      "facility": "",
+      "essential": ""
+    },
+    {
+      "opening": "",
+      "inflows": "",
+      "outflows": "",
+      "facility": "",
+      "essential": ""
+    },
+    {
+      "opening": "",
+      "inflows": "",
+      "outflows": "",
+      "facility": "",
+      "essential": ""
+    },
+    {
+      "opening": "",
+      "inflows": "",
+      "outflows": "",
+      "facility": "",
+      "essential": ""
+    },
+    {
+      "opening": "",
+      "inflows": "",
+      "outflows": "",
+      "facility": "",
+      "essential": ""
+    },
+    {
+      "opening": "",
+      "inflows": "",
+      "outflows": "",
+      "facility": "",
+      "essential": ""
+    }
+  ],
+  "commitments": [
+    {
+      "text": "Reconcile reported and recurring earnings; disclose material tax effects.",
+      "owner": "CFO",
+      "status": "Proposed"
+    },
+    {
+      "text": "Publish CFO/NI, DSO and DOH with explanations each quarter.",
+      "owner": "CFO",
+      "status": "Proposed"
+    },
+    {
+      "text": "Disclose receivables aging, distributor concentration, extended terms and exchange rights.",
+      "owner": "CFO",
+      "status": "Proposed"
+    },
+    {
+      "text": "Publish warranty provision roll-forward and material inventory valuation changes.",
+      "owner": "CFO",
+      "status": "Proposed"
+    },
+    {
+      "text": "Request independent Audit & Risk review before major financing.",
+      "owner": "CFO",
+      "status": "Proposed"
+    },
+    {
+      "text": "Submit an incentive redesign balancing revenue/EPS with operating cash and core performance.",
+      "owner": "CFO",
+      "status": "Proposed"
+    }
+  ],
+  "evidenceRequests": [
+    {
+      "status": "Not requested",
+      "asked": ""
+    },
+    {
+      "status": "Not requested",
+      "asked": ""
+    },
+    {
+      "status": "Not requested",
+      "asked": ""
+    },
+    {
+      "status": "Not requested",
+      "asked": ""
+    }
+  ],
+  "cfoDecisions": {},
+  "boardOutcome": {
+    "decision": "",
+    "announcedBy": "",
+    "announcedAt": "",
+    "conditions": "",
+    "dissent": "",
+    "notes": ""
+  },
+  "stageGates": [
+    "Open",
+    "Open",
+    "Open"
+  ],
+  "meta": {
+    "createdAt": "2026-10-20T17:31:07.633Z"
+  }
+}

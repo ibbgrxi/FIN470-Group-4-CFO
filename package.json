@@ -1,0 +1,12 @@
+{
+  "name": "fin470-group4-cfo-web",
+  "version": "1.5.0",
+  "private": true,
+  "description": "VDG CFO site with smooth uninterrupted 8-minute teleprompter and selectable presenter",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
